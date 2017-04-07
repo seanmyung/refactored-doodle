@@ -1,0 +1,25 @@
+{
+  "name": "hellowrold",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "7.7.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanmyung/refactored-doodle.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanmyung/refactored-doodle/issues"
+  },
+  "homepage": "https://github.com/seanmyung/refactored-doodle#readme"
+}
